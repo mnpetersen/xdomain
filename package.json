@@ -1,0 +1,20 @@
+{
+  "name": "xdomain",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "description": "A very simple cross domain messaging library.",
+  "main": "xdomain.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michaelp@abstractinventions.com",
+  "license": "MIT"
+}
